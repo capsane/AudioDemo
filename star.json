@@ -1,0 +1,422 @@
+{
+    "v": "5.6.8",
+    "fr": 25,
+    "ip": 0,
+    "op": 20,
+    "w": 96,
+    "h": 96,
+    "nm": "星星/114/单个动效",
+    "ddd": 0,
+    "assets": [
+        {
+            "id": "image_0",
+            "w": 96,
+            "h": 96,
+            "u": "",
+            "p": "data:image/png;base64,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",
+            "e": 1
+        },
+        {
+            "id": "image_1",
+            "w": 96,
+            "h": 96,
+            "u": "",
+            "p": "data:image/png;base64,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",
+            "e": 1
+        },
+        {
+            "id": "comp_0",
+            "layers": [
+                {
+                    "ddd": 0,
+                    "ind": 1,
+                    "ty": 2,
+                    "nm": "选中.png",
+                    "cl": "png",
+                    "refId": "image_0",
+                    "sr": 1,
+                    "ks": {
+                        "o": {
+                            "a": 0,
+                            "k": 100,
+                            "ix": 11
+                        },
+                        "r": {
+                            "a": 0,
+                            "k": 0,
+                            "ix": 10
+                        },
+                        "p": {
+                            "a": 0,
+                            "k": [
+                                48,
+                                48,
+                                0
+                            ],
+                            "ix": 2
+                        },
+                        "a": {
+                            "a": 0,
+                            "k": [
+                                48,
+                                48,
+                                0
+                            ],
+                            "ix": 1
+                        },
+                        "s": {
+                            "a": 0,
+                            "k": [
+                                100,
+                                100,
+                                100
+                            ],
+                            "ix": 6
+                        }
+                    },
+                    "ao": 0,
+                    "ip": 0,
+                    "op": 125,
+                    "st": 0,
+                    "bm": 0
+                }
+            ]
+        },
+        {
+            "id": "comp_1",
+            "layers": [
+                {
+                    "ddd": 0,
+                    "ind": 1,
+                    "ty": 2,
+                    "nm": "默认.png",
+                    "cl": "png",
+                    "refId": "image_1",
+                    "sr": 1,
+                    "ks": {
+                        "o": {
+                            "a": 0,
+                            "k": 100,
+                            "ix": 11
+                        },
+                        "r": {
+                            "a": 0,
+                            "k": 0,
+                            "ix": 10
+                        },
+                        "p": {
+                            "a": 0,
+                            "k": [
+                                48,
+                                48,
+                                0
+                            ],
+                            "ix": 2
+                        },
+                        "a": {
+                            "a": 0,
+                            "k": [
+                                48,
+                                48,
+                                0
+                            ],
+                            "ix": 1
+                        },
+                        "s": {
+                            "a": 0,
+                            "k": [
+                                100,
+                                100,
+                                100
+                            ],
+                            "ix": 6
+                        }
+                    },
+                    "ao": 0,
+                    "ip": 0,
+                    "op": 125,
+                    "st": 0,
+                    "bm": 0
+                }
+            ]
+        }
+    ],
+    "layers": [
+        {
+            "ddd": 0,
+            "ind": 1,
+            "ty": 0,
+            "nm": "星星/114/选中",
+            "refId": "comp_0",
+            "sr": 1,
+            "ks": {
+                "o": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": {
+                                "x": [
+                                    0.833
+                                ],
+                                "y": [
+                                    0.833
+                                ]
+                            },
+                            "o": {
+                                "x": [
+                                    0.167
+                                ],
+                                "y": [
+                                    0.167
+                                ]
+                            },
+                            "t": 5,
+                            "s": [
+                                0
+                            ]
+                        },
+                        {
+                            "t": 6,
+                            "s": [
+                                100
+                            ]
+                        }
+                    ],
+                    "ix": 11
+                },
+                "r": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 10
+                },
+                "p": {
+                    "a": 0,
+                    "k": [
+                        48,
+                        48,
+                        0
+                    ],
+                    "ix": 2
+                },
+                "a": {
+                    "a": 0,
+                    "k": [
+                        48,
+                        48,
+                        0
+                    ],
+                    "ix": 1
+                },
+                "s": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": {
+                                "x": [
+                                    0.67,
+                                    0.67,
+                                    0.67
+                                ],
+                                "y": [
+                                    1,
+                                    1,
+                                    1
+                                ]
+                            },
+                            "o": {
+                                "x": [
+                                    1,
+                                    1,
+                                    0.75
+                                ],
+                                "y": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "t": 2,
+                            "s": [
+                                0,
+                                0,
+                                100
+                            ]
+                        },
+                        {
+                            "i": {
+                                "x": [
+                                    0.67,
+                                    0.67,
+                                    0.67
+                                ],
+                                "y": [
+                                    1,
+                                    1,
+                                    1
+                                ]
+                            },
+                            "o": {
+                                "x": [
+                                    0.75,
+                                    0.75,
+                                    0.75
+                                ],
+                                "y": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "t": 5,
+                            "s": [
+                                110,
+                                110,
+                                100
+                            ]
+                        },
+                        {
+                            "i": {
+                                "x": [
+                                    0.67,
+                                    0.67,
+                                    0.67
+                                ],
+                                "y": [
+                                    1,
+                                    1,
+                                    1
+                                ]
+                            },
+                            "o": {
+                                "x": [
+                                    0.75,
+                                    0.75,
+                                    0.75
+                                ],
+                                "y": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "t": 11,
+                            "s": [
+                                95,
+                                95,
+                                100
+                            ]
+                        },
+                        {
+                            "t": 14,
+                            "s": [
+                                100,
+                                100,
+                                100
+                            ]
+                        }
+                    ],
+                    "ix": 6
+                }
+            },
+            "ao": 0,
+            "w": 96,
+            "h": 96,
+            "ip": 2,
+            "op": 127,
+            "st": 2,
+            "bm": 0
+        },
+        {
+            "ddd": 0,
+            "ind": 2,
+            "ty": 0,
+            "nm": "星星/114/默认",
+            "refId": "comp_1",
+            "sr": 1,
+            "ks": {
+                "o": {
+                    "a": 0,
+                    "k": 100,
+                    "ix": 11
+                },
+                "r": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 10
+                },
+                "p": {
+                    "a": 0,
+                    "k": [
+                        48,
+                        47.75,
+                        0
+                    ],
+                    "ix": 2
+                },
+                "a": {
+                    "a": 0,
+                    "k": [
+                        48,
+                        48,
+                        0
+                    ],
+                    "ix": 1
+                },
+                "s": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": {
+                                "x": [
+                                    0.833,
+                                    0.833,
+                                    0.833
+                                ],
+                                "y": [
+                                    0.833,
+                                    0.833,
+                                    0.833
+                                ]
+                            },
+                            "o": {
+                                "x": [
+                                    0.167,
+                                    0.167,
+                                    0.167
+                                ],
+                                "y": [
+                                    0.167,
+                                    0.167,
+                                    0.167
+                                ]
+                            },
+                            "t": 0,
+                            "s": [
+                                100,
+                                100,
+                                100
+                            ]
+                        },
+                        {
+                            "t": 3,
+                            "s": [
+                                80,
+                                80,
+                                100
+                            ]
+                        }
+                    ],
+                    "ix": 6
+                }
+            },
+            "ao": 0,
+            "w": 96,
+            "h": 96,
+            "ip": 0,
+            "op": 110,
+            "st": -15,
+            "bm": 0
+        }
+    ],
+    "markers": []
+}
